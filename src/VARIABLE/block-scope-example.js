@@ -1,9 +1,10 @@
 //CONTOH PENERAPAN BLOCK-SCOPE
 
 function BlockExample(text) {
-  if (text == "blockEx" || text == "ExBlock") {
+  if (text == "GeeksForGeek" || text == "ExBlock") {
     var msg = "Example Block Has been Verified";
     console.log(msg);
   }
+  console.log(msg);
 }
-printBlockExample("ExBlock");
+BlockExample("ExBlock");
