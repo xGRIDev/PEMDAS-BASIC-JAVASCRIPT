@@ -1,3 +1,17 @@
 body {
   font-family: sans-serif;
 }
+
+button {
+}
+
+h1 {
+}
+
+:is(.navbar, .burger, .dropdowns) {
+  position: fixed;
+  top: 0;
+}
+
+.navbar {
+}
