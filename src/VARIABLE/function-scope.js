@@ -11,3 +11,7 @@ function TestFunc() {
   console.log(c);
 }
 TestFunc();
+
+/**
+ *  contoh penjabaran nya disini
+ */
