@@ -1,6 +1,6 @@
 let profile_users = {
   name: null,
-  age: null,
+  age: 20,
   address: null,
   region: null,
 };
